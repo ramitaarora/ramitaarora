@@ -1,4 +1,4 @@
-<img src="./images/github-banner.png" alt="ramita-banner">
+<img src="./github-banner.png" alt="ramita-banner">
 
 # Hi, I'm Ramita! 
 
@@ -13,9 +13,7 @@ I come from a background as a private teacher and crafting melodies through song
 
 ### Languages and Tools:
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" />
 
 ### I am currently learning:
 - NextJS
