@@ -19,6 +19,8 @@ I come from a background as a private teacher and crafting melodies through song
 - NextJS
 - TypeScript
 - React Native
+- Redux
+- Data Structures and Algorithms
 
 ### Feel free to contact me on <a href="https://www.linkedin.com/in/ramitaarora/">LinkedIn</a> or by <a href="mailto:ramitaarora23@gmail.com">Email</a>!
 
