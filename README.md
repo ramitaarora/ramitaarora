@@ -17,6 +17,7 @@ I come from a background as a private teacher and crafting melodies through song
 - React Native
 - Redux
 - Data Structures and Algorithms
+- PHP
 
 ### Languages and Tools:
 
