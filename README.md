@@ -11,16 +11,18 @@ I come from a background as a private teacher and crafting melodies through song
 - A front-end project called <a href="https://ramitaarora.github.io/meal-match/">Meal Match</a>, a recipe web application that allows users to "match" with their ideal meal or drink, much like a dating app. 
 - A full-stack project called <a href="https://chit-chat-wechatalot-00f4f8dc2d8e.herokuapp.com/">Chit Chat</a>, a web chat application that allows users to add friends, chat in real time and view their profiles.
 
-### Languages and Tools:
-
-<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" />
-
-### I am currently learning:
+### Learning Goals:
 - NextJS
 - TypeScript
 - React Native
 - Redux
 - Data Structures and Algorithms
+
+### Languages and Tools:
+
+<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" /><br />
+
+![ramitaarora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramitaarora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Feel free to contact me on <a href="https://www.linkedin.com/in/ramitaarora/">LinkedIn</a> or by <a href="mailto:ramitaarora23@gmail.com">Email</a>!
 
