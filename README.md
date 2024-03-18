@@ -23,10 +23,6 @@ I come from a background as a private music teacher and crafting melodies throug
 
 <img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" /><br />
 
-![ramitaarora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramitaarora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![ramitaarora's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramitaarora&theme=vue-dark&hide_border=true)
-
 ### Feel free to contact me on <a href="https://www.linkedin.com/in/ramitaarora/">LinkedIn</a> or by <a href="mailto:ramitaarora23@gmail.com">Email</a>!
 
 <!---
