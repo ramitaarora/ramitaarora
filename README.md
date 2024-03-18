@@ -4,7 +4,7 @@
 
 Hey there! I'm a Full-Stack Web Developer. Currently I am developing a website for Pleasant Hill Instructional Garden and contributing to Hack for LA.
 
-I come from a background as a private teacher and crafting melodies through songwriting and recording. My skills in teaching and audio engineering have given me experience in self-starting a business and a knack for creativity. Now, I'm diving into the realm of web development. 
+I come from a background as a private music teacher and crafting melodies through songwriting and recording. My skills in teaching and audio engineering have given me experience in self-starting a business and a knack for creativity. Now, I'm diving into the realm of web development. 
 
 ### I am currently working on:
 - A full-stack project called <a href="https://mosaic-planner-112e49ce3b90.herokuapp.com/">Mosaic Planner</a>, a productivity web application that combines different aspects of a traditional planner: a calendar, schedule, daily items, reminders/notes, and goals. 
@@ -16,8 +16,8 @@ I come from a background as a private teacher and crafting melodies through song
 - TypeScript
 - React Native
 - Redux
-- Data Structures and Algorithms
 - PHP
+- Data Structures and Algorithms
 
 ### Languages and Tools:
 
