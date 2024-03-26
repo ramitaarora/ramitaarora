@@ -21,7 +21,7 @@ I come from a background as a private music teacher and crafting melodies throug
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo" /><br />
+<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo,py,css,emotion,figma,github,heroku,html,nodejs,ps,postman,regex,wordpress" /><br />
 
 ### Feel free to contact me on <a href="https://www.linkedin.com/in/ramitaarora/">LinkedIn</a> or by <a href="mailto:ramitaarora23@gmail.com">Email</a>!
 
