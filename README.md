@@ -23,7 +23,9 @@ I come from a background as a private music teacher and crafting melodies throug
 
 ![ramitaarora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramitaarora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwind,mysql,sequelize,mongo,py,css,emotion,figma,github,heroku,html,nodejs,ps,postman,regex,wordpress" /><br />
+<img src="https://skillicons.dev/icons?i=js,react,mysql,py,html" /><br />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,figma,ps" /><br />
+<img src="https://skillicons.dev/icons?i=sequelize,mongo,heroku,nodejs,postman" /><br />
 
 ### Feel free to contact me on <a href="https://www.linkedin.com/in/ramitaarora/">LinkedIn</a> or by <a href="mailto:ramitaarora23@gmail.com">Email</a>!
 
