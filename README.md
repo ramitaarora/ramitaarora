@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramita! 
 
-I'm a Full-Stack Web Developer. Currently I am contributing to Hack for LA as I study React, Typescript and AWS Cloud Development.
+I'm a Full-Stack Web Developer. Currently, I am contributing to Hack for LA as I study React, Typescript and AWS Cloud Development.
 
 I come from a background as a private music teacher and crafting melodies through songwriting and recording. My skills in teaching and audio engineering have given me experience in self-starting a business and a knack for creativity. Now, I'm diving into the realm of web development. 
 
@@ -16,8 +16,6 @@ I come from a background as a private music teacher and crafting melodies throug
 - TypeScript
 - AWS Cloud Development
 - React Native
-- Redux
-- PHP
 - Data Structures and Algorithms
 
 ### Languages and Tools:
