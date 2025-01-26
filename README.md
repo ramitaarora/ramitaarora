@@ -1,4 +1,4 @@
-<a href="https://indurkhya-portfolio.netlify.app/"><img src="./github-banner.png" alt="ramita-banner"></a>
+<a href="https://ramitaarora.github.io/indurkhya-portfolio/"><img src="./github-banner.png" alt="ramita-banner"></a>
 
 # Hi, I'm Ramita! 
 
